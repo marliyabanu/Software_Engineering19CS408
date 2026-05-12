@@ -1,4 +1,8 @@
-# Software_Engineering19CS408
+# ATM and BANKING System
+ATM-AND-BANKING-SYSTEM
+Reg No:
+Name:
+Date:
 AIM:
 To develop the ATM and Banking System using Star UML
 Problem Statement:
